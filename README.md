@@ -6,4 +6,4 @@ Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Int
 This is fun
 
 
-Be sure to dring you ovaltine.
+Be sure to drink you ovaltine.
