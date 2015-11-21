@@ -1,3 +1,1 @@
 This is sometning special.
-
-This is some new test, but I commit it too early.
