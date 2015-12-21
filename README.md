@@ -1,14 +1,6 @@
 # DesignPatterns
 Projects Showcasing Various Design Patterns
 
-Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! 
+These are few folders containing various Solutions which demonstrate Design Patterns.
 
-This is fun
-
-
-Be sure to drink you ovaltine.
-
-
-This is some new information.
-
-I'm nott kidding.
+You can view more/related documentation on www.arthurzaslawski.com
