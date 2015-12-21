@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LazyLoadingClassLibrary
 {
-    public class EagerCook
+    public class EagerRecipe
     {
         private string _name;
 
@@ -16,19 +16,18 @@ namespace LazyLoadingClassLibrary
             set { _name = value; }
         }
 
-        private List<CookingStep> _recipe;
+        private List<CookingStep> _steps;
 
-        public List<CookingStep> Recipe
+        public List<CookingStep> Steps
         {
-            get { return _recipe; }
-            set { _recipe = value; }
+            get { return _steps; }
+            set { _steps = value; }
         }
 
-        public EagerCook()
+        public EagerRecipe()
         {
-            _name = "Lazy Arthur";
-            _recipe = Database.LoadScrambledEggsRecipe();
+            _name = "Lazy Scrambled Eggs";
+            _steps = Database.LoadScrambledEggsSteps();
         }
     }
-
 }

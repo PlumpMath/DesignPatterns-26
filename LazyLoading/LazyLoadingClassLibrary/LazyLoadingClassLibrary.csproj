@@ -41,10 +41,10 @@
   <ItemGroup>
     <Compile Include="CookingStep.cs" />
     <Compile Include="Database.cs" />
-    <Compile Include="EagerCook.cs" />
-    <Compile Include="LazyCook.cs" />
+    <Compile Include="EagerRecipe.cs" />
+    <Compile Include="LazyRecipe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmartCook.cs" />
+    <Compile Include="SmartRecipe.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

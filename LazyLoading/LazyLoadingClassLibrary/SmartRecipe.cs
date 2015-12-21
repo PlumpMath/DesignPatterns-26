@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LazyLoadingClassLibrary
 {
-    public class SmartCook
+    public class SmartRecipe
     {
         private string _name;
 
@@ -16,19 +16,19 @@ namespace LazyLoadingClassLibrary
             set { _name = value; }
         }
 
-        private Lazy<List<CookingStep>> _recipe = null;
+        private Lazy<List<CookingStep>> _steps = null;
 
-        public List<CookingStep> Recipe
+        public List<CookingStep> Steps
         {
             get
             {
-                return _recipe.Value;
+                return _steps.Value;
             }
         }
-        public SmartCook()
+        public SmartRecipe()
         {
-            _name = "Smart Arthur";
-            _recipe = new Lazy<List<CookingStep>>(() => Database.LoadScrambledEggsRecipe());
+            _name = "Smart Scrambled Eggs";
+            _steps = new Lazy<List<CookingStep>>(() => Database.LoadScrambledEggsSteps());
         }
     }
 }
