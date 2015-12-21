@@ -1,3 +1,0 @@
-This is sometning special.
-
-This is some new test, but now I'm ready to commit it.
