@@ -1,0 +1,5 @@
+E:\Projects\Zetisoft\DesignPatterns\LazyLoading\LazyLoadingClassLibrary\bin\Debug\LazyLoadingClassLibrary.dll
+E:\Projects\Zetisoft\DesignPatterns\LazyLoading\LazyLoadingClassLibrary\bin\Debug\LazyLoadingClassLibrary.pdb
+E:\Projects\Zetisoft\DesignPatterns\LazyLoading\LazyLoadingClassLibrary\obj\Debug\LazyLoadingClassLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\Zetisoft\DesignPatterns\LazyLoading\LazyLoadingClassLibrary\obj\Debug\LazyLoadingClassLibrary.dll
+E:\Projects\Zetisoft\DesignPatterns\LazyLoading\LazyLoadingClassLibrary\obj\Debug\LazyLoadingClassLibrary.pdb
